@@ -54,8 +54,6 @@ Documentation = "https://github.com/microsoft/python-package-template/tree/main#
 Source = "https://github.com/microsoft/python-package-template"
 Tracker = "https://github.com/microsoft/python-package-template/issues"
 
-[tool.flit.module]
-name = "python_package"
 
 [tool.bandit]
 exclude_dirs = ["build","dist","tests","scripts"]
