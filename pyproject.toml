@@ -56,7 +56,7 @@ Tracker = "https://github.com/microsoft/python-package-template/issues"
 
 
 [tool.flit.module]
-name = "world2d"
+name = "python_package_2"
 
 [tool.bandit]
 exclude_dirs = ["build","dist","tests","scripts"]
