@@ -3,11 +3,11 @@ requires = ["flit"]
 build-backend = "flit.buildapi"
 
 [project]
-name =  "py-project-toml"
+name =  "world2d"
 authors = [
-    {name = "Daniel Ciborowski", email = "dciborow@microsoft.com"},
+    {name = "Ashkan Shokri", email = "ashkan.shokri@gmail.com"},
 ]
-description = "Sample Python Project for creating a new Python Module"
+description = "TO BE ADDED."
 readme = "README.md"
 classifiers = [
     "Development Status :: 3 - Alpha",
