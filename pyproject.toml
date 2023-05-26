@@ -9,6 +9,9 @@ authors = [
 ]
 description = "TO BE ADDED."
 readme = "README.md"
+dependencies = [
+    "manim"
+]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
